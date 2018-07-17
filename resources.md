@@ -10,6 +10,7 @@ Good Resources on Youtube
 * Bill Bean (see channel of Erin Spellman: https://www.youtube.com/channel/UCpcVIKoGbvjZ49Wiet8kiwQ) 
 * Photohelix
 * Christ Warrior https://www.youtube.com/channel/UCvu9Z8EaO7Uxc3zwKomqorQ
+* Child of Light https://www.youtube.com/channel/UCofoJTMMsTmpyY98J_-bIQg/videos
 
 More Resources 
 ==
