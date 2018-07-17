@@ -15,3 +15,5 @@ More Resources
 ==
 
 http://mandelabiblechanges.com/
+
+https://mandelaeffectforum.com/
