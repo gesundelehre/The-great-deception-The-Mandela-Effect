@@ -10,6 +10,7 @@ Isaiah 53:12 and Hebrews 9:28 - Jesus now only died for many not for all? Is tha
 * suburbs” and “mortgage”
 * to “take up thy couch” or Genesis 49:9 to say “he couched as a lion”? The word was CROUCHED! No one couches, they crouch!
 Genesis 49:14 “Issachar is a strong ass COUCHING down between two burdens:”. Also “ass” , was donkey !
+* john 5:39 was changed to a command from a rebuking statement
 
 * go through comments here: https://www.youtube.com/watch?v=gXYUGNt1K_I
 
