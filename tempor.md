@@ -13,9 +13,14 @@ Hereafter follows a summary of the whole book to get an overview of its content
     
     -   !!False Accusations and worldly wisdom refuted
     -   !!How to deal with people having altered memories
--   !Explanation of how the Mandela Effect works
+# Explanation of how the Mandela Effect works
+## False Memories or Memory Implants
+
+## Past Changed Recursively
+
     
--   !False Explanations of how the Mandela Effect works
+# False Explanations of how the Mandela Effect works
+
     
 # Examples of Changes
 ## Examples of Wordly Changes
@@ -24,7 +29,8 @@ https://mandelaeffectforum.com/thread-24.html
 
 -   !Important Categories of Biblical Changes (in which direction is the Bible being changed)
     
--   !False Teachings regarding the Mandela Effect
+# False Teachings regarding the Mandela Effect
+
     
 # False Changereports
 ## False Worldly Changereports
@@ -96,5 +102,5 @@ John 8:32
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE5OTk2OSwtMTAyNTEwNzg1OV19
+eyJoaXN0b3J5IjpbMTEyNTM3MTM2NywtMTAyNTEwNzg1OV19
 -->
