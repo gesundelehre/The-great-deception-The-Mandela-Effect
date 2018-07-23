@@ -1,7 +1,9 @@
 
 Outline of Book / Index
 
--   !Synopsis
+# Synopsis
+
+Hereafter follows a summary of the whole book to get an overview of its content
     
 -   !How to use this Book?
     
@@ -54,5 +56,5 @@ What you should do about these changes? Be a watchman on the wall, warning the p
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTAxOTgxXX0=
+eyJoaXN0b3J5IjpbLTEzNzkyODM3MTJdfQ==
 -->
