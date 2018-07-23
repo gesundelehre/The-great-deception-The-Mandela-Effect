@@ -17,10 +17,11 @@ Hereafter follows a summary of the whole book to get an overview of its content
     
 -   !False Explanations of how the Mandela Effect works
     
--   !Examples of Changes
-    
-    -   !!Examples of Wordly Changes
-    -   !!Examples of Biblical Changes
+# Examples of Changes
+## Examples of Wordly Changes
+https://mandelaeffectforum.com/thread-24.html
+## Examples of Biblical Changes
+
 -   !Important Categories of Biblical Changes (in which direction is the Bible being changed)
     
 -   !False Teachings regarding the Mandela Effect
@@ -95,5 +96,5 @@ John 8:32
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjUxMDc4NTldfQ==
+eyJoaXN0b3J5IjpbMTA2NjE5OTk2OSwtMTAyNTEwNzg1OV19
 -->
