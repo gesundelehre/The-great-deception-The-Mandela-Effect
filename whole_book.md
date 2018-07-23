@@ -25,10 +25,14 @@ Hereafter follows a summary of the whole book to get an overview of its content
     
 -   !False Teachings regarding the Mandela Effect
     
--   !False Changereports
-    
-    -   !!False Worldly Changereports
-    -   !!False Biblical Changereports
+# False Changereports
+## False Worldly Changereports
+## False Biblical Changereports
+EYA: Jeremiah 5:30-31 / "my people love to have it so" is not a change. But it shows that the evil people back then loved the false prophets. This is perfectly a correct historical fact -- see here: https://youtu.be/ti_BQAZg8qg?t=8m35s -- jesus also said "woe unto you if all people will speak well of you, for so did their fathers unto the false prophets"
+
+EYA: "..you bear it well..."
+
+
 -   !Warning of Gatekeepers and False Teachers regarding the Mandela Effect
     
 -   !Reason for the Mandela Effect (Explanation of Principles / Reason why things are being changed)
@@ -40,6 +44,8 @@ Hereafter follows a summary of the whole book to get an overview of its content
 ## Summary of what gaslighting is
 
 ## How is gaslighting related to the Mandela-Effect?
+
+
     -   !!Put Fairytale Language into Bible to discredit it Quote from  [http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf)  I wanted to make a point about the hidden code or, rather agenda of those who have and are doing this to the scriptures: I am seeing just as Kat, there is an unusual amount of language now throughout scriptures that seems to place God in a very dull light. It promotes the Kingdom of Satan and the Luciferian Agenda that wants to erase God out of existence! There is I would call for lack of a better phrase “fairytale language” now running through the scriptures, with castle, princes 352 times, king's courts and palaces, dragons and damsels, seed royal and butlers. Satan wants to discredit scripture and make it confused and unintelligible!
     -   !!Put Inner Contradictions into Bible to discredit it
 -   List of All Bibleverse Changes  [http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf)  [http://www.final-call.us/Discrepencies%20in%20OT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20OT%20scriptures.pdf)
@@ -76,5 +82,5 @@ What you should do about these changes? Be a watchman on the wall, warning the p
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTE2MzIzOF19
+eyJoaXN0b3J5IjpbMjEzNjYyODExMF19
 -->
