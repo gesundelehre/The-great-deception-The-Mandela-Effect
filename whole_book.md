@@ -33,7 +33,13 @@ Hereafter follows a summary of the whole book to get an overview of its content
     
 -   !Reason for the Mandela Effect (Explanation of Principles / Reason why things are being changed)
     
-    -   !Gaslighting
+# Gaslighting
+
+## Origins of the Term Gaslighting
+
+## Summary of what gaslighting is
+
+## How is gaslighting related to the Mandela-Effect?
     -   !!Put Fairytale Language into Bible to discredit it Quote from  [http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf)  I wanted to make a point about the hidden code or, rather agenda of those who have and are doing this to the scriptures: I am seeing just as Kat, there is an unusual amount of language now throughout scriptures that seems to place God in a very dull light. It promotes the Kingdom of Satan and the Luciferian Agenda that wants to erase God out of existence! There is I would call for lack of a better phrase “fairytale language” now running through the scriptures, with castle, princes 352 times, king's courts and palaces, dragons and damsels, seed royal and butlers. Satan wants to discredit scripture and make it confused and unintelligible!
     -   !!Put Inner Contradictions into Bible to discredit it
 -   List of All Bibleverse Changes  [http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20NT%20scriptures.pdf)  [http://www.final-call.us/Discrepencies%20in%20OT%20scriptures.pdf](http://www.final-call.us/Discrepencies%20in%20OT%20scriptures.pdf)
@@ -70,5 +76,5 @@ What you should do about these changes? Be a watchman on the wall, warning the p
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDU3MzMxOF19
+eyJoaXN0b3J5IjpbMTcxMTE2MzIzOF19
 -->
