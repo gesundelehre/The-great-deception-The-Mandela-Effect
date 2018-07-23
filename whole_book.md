@@ -101,6 +101,3 @@ John 8:32
 -   !TODO
     
     -   !!Noticed Biblical Changes
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTM3MTM2NywtMTAyNTEwNzg1OV19
--->
