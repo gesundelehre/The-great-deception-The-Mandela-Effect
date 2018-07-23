@@ -43,10 +43,24 @@ Hereafter follows a summary of the whole book to get an overview of its content
 
 What you should do about these changes? Be a watchman on the wall, warning the people of the sword (deception) that is coming
 
--   !Resources
-    
-    -   !Good Resources on Youtube
-    -   !More Resources
+# Resources
+## Good Resources on Youtube
+
+-   Braddah Eon  [https://www.youtube.com/channel/UCHtAC9056nRVJSicq5ZDDuQ](https://www.youtube.com/channel/UCHtAC9056nRVJSicq5ZDDuQ)
+-   Bornforbattle74  [https://www.youtube.com/user/bornforbattle74](https://www.youtube.com/user/bornforbattle74)
+-   Reggatto bonner  [https://www.youtube.com/channel/UC-mhtEFOBYXgEiPsrz67cUA](https://www.youtube.com/channel/UC-mhtEFOBYXgEiPsrz67cUA)
+-   GodsWarriorPrincess  [https://www.youtube.com/channel/UCuxwRqoJlSTc2SmIubWJnyQ](https://www.youtube.com/channel/UCuxwRqoJlSTc2SmIubWJnyQ)
+-   Jacob Israel  [https://www.youtube.com/user/ThomasCalls](https://www.youtube.com/user/ThomasCalls)
+-   Three Hearts Church  [https://www.youtube.com/channel/UCg1-KtTGus1zOrRaITRyk5w](https://www.youtube.com/channel/UCg1-KtTGus1zOrRaITRyk5w)
+-   Bill Bean (see channel of Erin Spellman:  [https://www.youtube.com/channel/UCpcVIKoGbvjZ49Wiet8kiwQ](https://www.youtube.com/channel/UCpcVIKoGbvjZ49Wiet8kiwQ))
+-   Photohelix
+-   Christ Warrior  [https://www.youtube.com/channel/UCvu9Z8EaO7Uxc3zwKomqorQ](https://www.youtube.com/channel/UCvu9Z8EaO7Uxc3zwKomqorQ)
+-   Child of Light  [https://www.youtube.com/channel/UCofoJTMMsTmpyY98J_-bIQg/videos](https://www.youtube.com/channel/UCofoJTMMsTmpyY98J_-bIQg/videos)
+
+## More Resources
+
+[http://mandelabiblechanges.com/](http://mandelabiblechanges.com/)
+[https://mandelaeffectforum.com/](https://mandelaeffectforum.com/)
 -   Appendix
     
     -   !Appendix 1: Examples of what Demons can do - Street Magicians
@@ -56,5 +70,5 @@ What you should do about these changes? Be a watchman on the wall, warning the p
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkyODM3MTJdfQ==
+eyJoaXN0b3J5IjpbLTk3NDU3MzMxOF19
 -->
