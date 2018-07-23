@@ -73,14 +73,27 @@ What you should do about these changes? Be a watchman on the wall, warning the p
 
 [http://mandelabiblechanges.com/](http://mandelabiblechanges.com/)
 [https://mandelaeffectforum.com/](https://mandelaeffectforum.com/)
--   Appendix
+# Appendix
     
-# Appendix 1: Examples of what Demons can do - Street Magicians
-    -   !Appendix 2: History and Explanation of the Deliberately False Translation of 2 Timothy 3:16
-    -   !Appendix 3: Residue for some Biblical changes
+## Appendix 1: Examples of what Demons can do - Street Magicians
+## Appendix 2: History and Explanation of the Deliberately False Translation of 2 Timothy 3:16
+
+See information here: 
+* The Real Story Behind the Translation of 2 Timothy 3:16 - https://www.franknelte.net/article.php?article_id=281
+* Synopsis Of: The Real Story Behind the Translation of 2 Timothy 3:16 - https://www.franknelte.net/article.php?article_id=282
+
+## Appendix 3: Residue for some Biblical changes
+
+### Old Testament
+Matthew 7:1
+John 8:36
+John 8:32
+
+### New Testament
+
 -   !TODO
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTc1NjAzMl19
+eyJoaXN0b3J5IjpbLTEwMjUxMDc4NTldfQ==
 -->
