@@ -5,10 +5,10 @@ Outline of Book / Index
 
 Hereafter follows a summary of the whole book to get an overview of its content
     
--   !How to use this Book?
-    
-    -   !!If the reader has only little time available to get an overview of this topic:
-    -   !!Where can I find a quick Answer?
+# How to use this Book?
+## If the reader has only little time available to get an overview of this topic:
+## Where can I find a quick Answer?
+
 -   !Wisdom how to deal with the Mandela Effect
     
     -   !!False Accusations and worldly wisdom refuted
@@ -75,12 +75,12 @@ What you should do about these changes? Be a watchman on the wall, warning the p
 [https://mandelaeffectforum.com/](https://mandelaeffectforum.com/)
 -   Appendix
     
-    -   !Appendix 1: Examples of what Demons can do - Street Magicians
+# Appendix 1: Examples of what Demons can do - Street Magicians
     -   !Appendix 2: History and Explanation of the Deliberately False Translation of 2 Timothy 3:16
     -   !Appendix 3: Residue for some Biblical changes
 -   !TODO
     
     -   !!Noticed Biblical Changes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjYyODExMF19
+eyJoaXN0b3J5IjpbLTQ4NTc1NjAzMl19
 -->
