@@ -22,3 +22,4 @@ Genesis 49:14 “Issachar is a strong ass COUCHING down between two burdens:”.
 
 ## Check things here
 * https://mandelaeffectforum.com/thread-24.html
+
