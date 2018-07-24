@@ -13,7 +13,7 @@ Genesis 49:14 “Issachar is a strong ass COUCHING down between two burdens:”.
 * john 5:39 was changed to a command from a rebuking statement
 
 * go through comments here: https://www.youtube.com/watch?v=gXYUGNt1K_I
-
+* romans 3:23 - see post here https://www.facebook.com/photo.php?fbid=558372674369424&set=a.136622499877779.1073741831.100005900890427&type=3&permPage=1 (see here: http://i.imgur.com/UQ1D7dr.png)
 
 ## Take a look at the false logic that is presented by the false teachers and note their arguments to refute them
 * Sermon 1 https://www.youtube.com/watch?v=rO1VsR39KcU / Notes on the sermon: http://www.newcovenantbaptist.org/the-mandela-effect-deception/
